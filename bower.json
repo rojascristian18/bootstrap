@@ -1,0 +1,16 @@
+{
+  "name": "custom-bootstrap",
+  "description": "Custom bootstrap colors",
+  "main": "",
+  "authors": [
+    "Cristian Rojas Pérez <cristian@webmas.cl>"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/rojascristian18/materialize",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-validator": "^0.11.5",
+    "jquery": "^3.1.0"
+  }
+}
