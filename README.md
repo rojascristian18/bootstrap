@@ -1,4 +1,4 @@
 # bootstrap custom theme
-Custom bootstrap framework integrate for front-end developers
+Custom bootstrap framework for front-end developers
 
-Used Less, Bootstrap, Jquery and Bootstrap Validator
+Using Less, Bootstrap, Jquery and Bootstrap Validator
